@@ -1,0 +1,17 @@
+# ninja log v6
+4	617	7805852370395376	UnityTemplateInstaller_autogen/timestamp	158bc03374bebaee
+4	617	7805852370395376	UnityTemplateInstaller_autogen/mocs_compilation.cpp	158bc03374bebaee
+4	617	7805852370395376	D:/MaksiM/QT/projects/UnityTemplateInstaller/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/UnityTemplateInstaller_autogen/timestamp	158bc03374bebaee
+4	617	7805852370395376	D:/MaksiM/QT/projects/UnityTemplateInstaller/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/UnityTemplateInstaller_autogen/mocs_compilation.cpp	158bc03374bebaee
+628	2742	7805852371123350	CMakeFiles/UnityTemplateInstaller.dir/main.cpp.obj	5e4102307714023d
+623	2844	7805852371063825	CMakeFiles/UnityTemplateInstaller.dir/UnityTemplateInstaller_autogen/mocs_compilation.cpp.obj	507a06f839178dc9
+633	3280	7805852371163240	CMakeFiles/UnityTemplateInstaller.dir/mainwindow.cpp.obj	216ecd397dad9f9b
+3280	3609	7805852397633209	UnityTemplateInstaller.exe	67f3e64fe1658acc
+10	733	7805872024281399	UnityTemplateInstaller_autogen/timestamp	158bc03374bebaee
+10	733	7805872024281399	UnityTemplateInstaller_autogen/mocs_compilation.cpp	158bc03374bebaee
+10	733	7805872024281399	D:/MaksiM/QT/projects/UnityTemplateInstaller/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/UnityTemplateInstaller_autogen/timestamp	158bc03374bebaee
+10	733	7805872024281399	D:/MaksiM/QT/projects/UnityTemplateInstaller/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/UnityTemplateInstaller_autogen/mocs_compilation.cpp	158bc03374bebaee
+739	3461	7805872026179183	CMakeFiles/UnityTemplateInstaller.dir/main.cpp.obj	5e4102307714023d
+733	3462	7805872026123955	CMakeFiles/UnityTemplateInstaller.dir/UnityTemplateInstaller_autogen/mocs_compilation.cpp.obj	507a06f839178dc9
+744	3495	7805872026685233	CMakeFiles/UnityTemplateInstaller.dir/mainwindow.cpp.obj	216ecd397dad9f9b
+3496	4243	7805872053745824	UnityTemplateInstaller.exe	67f3e64fe1658acc

@@ -1,0 +1,9 @@
+# ninja log v6
+4	416	7806838197878444	UnityTemplateInstaller_autogen/timestamp	b1e8ab8e785d2fdd
+4	416	7806838197878444	UnityTemplateInstaller_autogen/mocs_compilation.cpp	b1e8ab8e785d2fdd
+4	416	7806838197878444	C:/projects/qt/UnityTemplateInstaller/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/UnityTemplateInstaller_autogen/timestamp	b1e8ab8e785d2fdd
+4	416	7806838197878444	C:/projects/qt/UnityTemplateInstaller/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/UnityTemplateInstaller_autogen/mocs_compilation.cpp	b1e8ab8e785d2fdd
+423	1701	7806838198499058	CMakeFiles/UnityTemplateInstaller.dir/main.cpp.obj	fa4254b0f54fbf1a
+420	1704	7806838198467666	CMakeFiles/UnityTemplateInstaller.dir/UnityTemplateInstaller_autogen/mocs_compilation.cpp.obj	e14d9e29f80cc9b5
+425	2131	7806838198520030	CMakeFiles/UnityTemplateInstaller.dir/mainwindow.cpp.obj	24592c5d2b98b7f
+2132	2313	7806838215578797	UnityTemplateInstaller.exe	6f71c7ab3f42a8ab

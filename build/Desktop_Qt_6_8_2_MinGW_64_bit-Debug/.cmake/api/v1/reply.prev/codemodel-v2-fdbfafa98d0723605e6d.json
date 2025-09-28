@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ea453878f6aa07ebd212.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "UnityTemplateInstaller",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "UnityTemplateInstaller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnityTemplateInstaller-Debug-70962e1688e5353b1ec1.json",
+					"name" : "UnityTemplateInstaller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnityTemplateInstaller_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnityTemplateInstaller_autogen-Debug-616d429c20f7b7addfd3.json",
+					"name" : "UnityTemplateInstaller_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnityTemplateInstaller_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnityTemplateInstaller_autogen_timestamp_deps-Debug-86ce20106c486e767299.json",
+					"name" : "UnityTemplateInstaller_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MaksiM/QT/projects/UnityTemplateInstaller/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "D:/MaksiM/QT/projects/UnityTemplateInstaller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
