@@ -1,0 +1,71 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"thirdparty/libarchive/build/cmake/CreatePkgConfigFile.cmake",
+			"thirdparty/libarchive/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2131,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 31,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 2143,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/thirdparty/libarchive/build/pkgconfig/libarchive.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "share/man",
+			"paths" : 
+			[
+				"thirdparty/libarchive/doc/pdf"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "thirdparty/libarchive",
+		"source" : "thirdparty/libarchive"
+	}
+}
